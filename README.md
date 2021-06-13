@@ -6,7 +6,7 @@ Covid - 19 analysis and Data visualization.
 | Tableau Link for India's Visualization :  https://public.tableau.com/app/profile/samunder.singh/viz/covid_19_workbook/covid_19_story
 
 | Google Colab Link for USA's Analysis   :  https://colab.research.google.com/drive/16gNyhtxAtmebRnqq80z3DGjErtO8TXfS?usp=sharing                          
-| Tableau Link for India's Visualization :  Dosa and Idli at Granny's House is just so ummm !!!   XD XD 
+| Tableau Link for USA's Visualization   :  https://public.tableau.com/app/profile/samunder.singh/viz/Book1_16227136308360/Story1
 
 
 Analysis and Data Visualization of Covid - 19 using Data Science:
